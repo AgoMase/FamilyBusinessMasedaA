@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/agoma/OneDrive/Desktop/FinalTaller4/FamilyBusinessMasedaA/Juego/Version Mejorada/Build/build2.2
+C:/Users/agoma/OneDrive/Desktop/FinalTaller4/FamilyBusinessMasedaA/Build
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/LevelSelect.unity
